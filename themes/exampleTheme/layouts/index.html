@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ $image := .Params.avatar}}
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-lg-4">
+            <div id="profile">
+                <img src="{{ $image }}" class="avatar" alt="Anna Vicco headshot">
+                <ul class="ext-links">
+                    {{ range .Site.Params.social}}
+                        <li>
+                            <a href="{{.URL}}" class="ext-links-icon"><i class="fa-brands fa-{{.pre}}"></i></a>
+                        </li>
+                    {{end}}
+                </ul>
+            </div>
+        </div>
+        <div class="col-12 col-lg-8">
+            <h1 class="title">{{ .Site.Title }}</h1>
+            {{.Content}}
+        </div>
+    </div>
+</div>
+{{ end }}

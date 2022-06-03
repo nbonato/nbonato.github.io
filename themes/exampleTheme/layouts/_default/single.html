@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+    
+<h1>{{ .Title }}</h1>
+{{ partial "metadata.html" . }}
+<br>
+{{ .Content }}
+{{ .Params.summary}} <br>
+<br>
+<a class="btn btn-sm btn-outline-dark tag-btn", href="{{ .Params.links.github}}"><i class="fa-brands fa-github"></i> Github</a>
+<a class="btn btn-sm btn-outline-dark tag-btn", href="{{ .Params.links.pdf}}"><i class="fa-solid fa-paperclip"></i> PDF</a>
+<br>
+
+
+{{ end }}

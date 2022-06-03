@@ -1,0 +1,83 @@
+* {
+    font-family: "Public Sans";
+}
+
+body {
+    padding-top: 100px;
+}
+
+#profile {
+    max-width: 280px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.navbar {
+    background-color: #003e74;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+.navbar a {
+    color: white;
+}
+
+
+.navbar-toggler, .navbar-toggler:focus {
+    color: white;
+    box-shadow: none;
+    border: none;
+}
+
+.collapsed #cross, #burger {
+    display: none
+}
+
+
+.collapsed #burger {
+    display: block
+}
+
+.navbar-link {
+    font-size: 1.15rem;
+    text-decoration: none;
+    padding: 0 0.5rem;
+}
+.avatar {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.title {
+    color: black;
+}
+.publication {
+    border: none;
+    background-color: #ebeeee;
+    border-radius: 0;
+    padding: 10px;
+    margin: 15px;
+}
+
+.ext-links {
+    display: inline-flex;
+    list-style: none;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.ext-links li:hover {
+    transform: scale(1.2); 
+}
+
+.ext-links-icon {
+    color: #003e74;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+
+

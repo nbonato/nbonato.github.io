@@ -1,0 +1,33 @@
+{
+    "20203cosoku": {
+        "type" : "inproceedings",
+        "title" : "3coSoKu and its Logic Programming Modeling.",
+        "author" : "Rizzo, Nicola and Dovier, Agostino",
+        "booktitle" : "CILC",
+        "pages" : "5-20",
+        "year" : "2020"
+    },
+
+    "20223cosoku" : {
+        "title" : "3coSoKu and its declarative modeling",
+        "author" : "Rizzo, Nicola and Dovier, Agostino",
+        "journal" : "Journal of Logic and Computation",
+        "year" : "2022"
+    },
+
+    "2022linear" : {
+        "type" : "article",
+        "title" : "Linear Time Construction of Indexable Elastic Founder Graphs",
+        "author" : "Rizzo, Nicola and Mäkinen, Veli",
+        "journal" : "arXiv preprint arXiv:2201.06492",
+        "year" : "2022"
+    },
+
+    "2021labeled" : {
+        "type" : "article",
+        "title" : "The Labeled Direct Product Optimally Solves String Problems on Graphs",
+        "author" : "Rizzo, Nicola and Tomescu, Alexandru I and Policriti, Alberto",
+        "journal" : "arXiv preprint arXiv:2109.05290",
+        "year" : "2021"
+    }
+}

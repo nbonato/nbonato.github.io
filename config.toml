@@ -1,0 +1,38 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Anna Vicco'
+theme = "exampleTheme"
+
+
+[params]
+  name = "Boh"
+  [[params.social]]
+    name = "Linkedin"
+    pre = "linkedin"
+    url = "test"
+  [[params.social]]
+    name = "GitHub"
+    pre = "github"
+    url = "test"
+  [[params.social]]
+    name = "Orcid"
+    pre = "orcid"
+    url = "test"
+
+[menu]
+  [[menu.main]]
+    name = "Publications"
+    pre = "fa-solid fa-book-bookmark"# pre is used to load icons
+    url = "/publications/"
+    weight = 2
+  [[menu.main]]
+    name = "CV"
+    pre = "fa-solid fa-briefcase"
+    url = "/cv/"
+    weight = 3
+  [[menu.main]]
+    name = "Teaching"
+    pre = "fa-solid fa-chalkboard-user"
+    url = "/teaching/"
+    weight = 3
+
