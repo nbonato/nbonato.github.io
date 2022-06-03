@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anna Vicco</title>
-    <link>http://nbonato.github.io/tags/</link>
+    <link>https://nbonato.github.io/tags/</link>
     <description>Recent content in Tags on Anna Vicco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 May 2022 18:27:21 +0200</lastBuildDate><atom:link href="http://nbonato.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 18:27:21 +0200</lastBuildDate><atom:link href="https://nbonato.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bar</title>
-      <link>http://nbonato.github.io/tags/bar/</link>
+      <link>https://nbonato.github.io/tags/bar/</link>
       <pubDate>Sat, 21 May 2022 18:27:21 +0200</pubDate>
       
-      <guid>http://nbonato.github.io/tags/bar/</guid>
+      <guid>https://nbonato.github.io/tags/bar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>foo</title>
-      <link>http://nbonato.github.io/tags/foo/</link>
+      <link>https://nbonato.github.io/tags/foo/</link>
       <pubDate>Sat, 21 May 2022 18:27:21 +0200</pubDate>
       
-      <guid>http://nbonato.github.io/tags/foo/</guid>
+      <guid>https://nbonato.github.io/tags/foo/</guid>
       <description></description>
     </item>
     
