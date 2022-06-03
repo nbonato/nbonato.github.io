@@ -9,11 +9,11 @@ theme = "exampleTheme"
   [[params.social]]
     name = "Linkedin"
     pre = "linkedin"
-    url = "test"
+    url = "https://www.linkedin.com/in/anna-vicco"
   [[params.social]]
     name = "GitHub"
     pre = "github"
-    url = "test"
+    url = "https://github.com/AnnaV"
   [[params.social]]
     name = "Orcid"
     pre = "orcid"
