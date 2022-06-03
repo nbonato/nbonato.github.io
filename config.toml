@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://nbonato.github.io/'
 languageCode = 'en-us'
 title = 'Anna Vicco'
 theme = "exampleTheme"
