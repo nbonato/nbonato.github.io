@@ -1,0 +1,12 @@
+<div class="card publication">
+    <h3><a class="publication-title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ partial "metadata.html" . }}
+    <details>
+        <summary>
+            <span>Read abstract</span>
+        </summary>
+    
+        {{.Summary}}
+    
+    </details>
+</div>

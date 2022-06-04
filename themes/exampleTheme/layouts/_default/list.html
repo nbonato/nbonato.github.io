@@ -5,36 +5,13 @@
 
 
 {{ range where .Pages "Params.preprint" "!=" true}}
-    <div class="card publication">
-        <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        {{ partial "metadata.html" . }}
-        <details>
-            <summary>
-                Read abstract
-            </summary>
-        
-            {{.Summary}}
-        
-        </details>
-    </div>
+    {{ partial "publications.html" . }}
 {{end}}
 
 <h2>Pre-prints</h2>
 
-
 {{ range where .Pages "Params.preprint" true}}
-    <div class="card publication">
-        <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        {{ partial "metadata.html" . }}
-        <details>
-            <summary>
-                Read abstract
-            </summary>
-        
-            {{.Summary}}
-        
-        </details>
-    </div>
+    {{ partial "publications.html" . }}
 {{end}}
 
 {{ end }}
