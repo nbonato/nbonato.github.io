@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nbonato.github.io/publications/2022genomic/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nbonato.github.io/publications/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nbonato.github.io/</loc>
     <lastmod>2022-05-22T11:28:34+02:00</lastmod>
   </url><url>
@@ -10,21 +16,6 @@
   </url><url>
     <loc>https://nbonato.github.io/teaching/</loc>
     <lastmod>2022-05-22T11:24:06+02:00</lastmod>
-  </url><url>
-    <loc>https://nbonato.github.io/publications/20223cosoku/</loc>
-    <lastmod>2022-05-21T23:32:40+02:00</lastmod>
-  </url><url>
-    <loc>https://nbonato.github.io/publications/20203cosoku/</loc>
-    <lastmod>2022-05-21T23:32:40+02:00</lastmod>
-  </url><url>
-    <loc>https://nbonato.github.io/publications/</loc>
-    <lastmod>2022-05-21T23:32:40+02:00</lastmod>
-  </url><url>
-    <loc>https://nbonato.github.io/publications/2022linear/</loc>
-    <lastmod>2022-05-21T23:32:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nbonato.github.io/publications/2021labeled/</loc>
-    <lastmod>2022-05-21T23:32:01+02:00</lastmod>
   </url><url>
     <loc>https://nbonato.github.io/tags/bar/</loc>
     <lastmod>2022-05-21T18:27:21+02:00</lastmod>

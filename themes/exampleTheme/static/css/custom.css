@@ -25,7 +25,7 @@ h2 {
     font-size: 1.4rem;
 }
 
-.navbar a {
+.navbar a, .navbar a:hover {
     color: white;
 }
 

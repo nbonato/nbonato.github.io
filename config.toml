@@ -34,4 +34,3 @@ theme = "exampleTheme"
     pre = "fa-solid fa-chalkboard-user"
     url = "/teaching/"
     weight = 3
-
