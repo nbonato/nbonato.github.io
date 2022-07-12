@@ -30,9 +30,18 @@ h2 {
 }
 
 .navbar a:hover {
+    color: white;
     font-weight: 700;
 }
 
+.navbar a::before {
+    display: block;
+    content: attr(title);
+    font-weight: 700;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
 
 .navbar-toggler, .navbar-toggler:focus {
     color: white;
