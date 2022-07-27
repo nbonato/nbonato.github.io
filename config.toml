@@ -7,16 +7,20 @@ theme = "exampleTheme"
 [params]
   [[params.social]]
     name = "Linkedin"
-    pre = "linkedin"
+    pre = "fa-brands fa-linkedin"
     url = "https://www.linkedin.com/in/anna-vicco"
   [[params.social]]
     name = "GitHub"
-    pre = "github"
+    pre = "fa-brands fa-github"
     url = "https://github.com/AnnaV"
   [[params.social]]
     name = "Orcid"
-    pre = "orcid"
+    pre = "fa-brands fa-orcid"
     url = "https://orcid.org/0000-0002-6555-3090"
+  [[params.social]]
+    name = "Scholar"
+    pre = "ai ai-google-scholar"
+    url = "https://scholar.google.it/citations?user=mLy1q6YAAAAJ"
 
 [menu]
   [[menu.main]]
